@@ -1,0 +1,42 @@
+.HEAD {
+    font-family: Calibri;
+    font-size: 40px;
+    color:lightgreen
+}
+.para {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white;
+}
+.link {
+    text-decoration: none;
+    color: rgb(253, 127, 127);
+}
+.link:hover{
+    text-decoration: underline;
+}
+body {
+    text-align: center;
+}
+#console {
+    background: linear-gradient( to left , red , green , blue , yellow);
+    padding-top: 1px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+#if {
+    margin-top: 20px;
+    background: linear-gradient(to left , purple , cyan , lime , orange);
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+#frame {
+    width: 85%;
+    height: 70%;
+    border-radius: 20px;
+    border-style: dotted;
+}
+#trol {
+    color: rgb(255, 0, 0);
+}
